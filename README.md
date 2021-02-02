@@ -7,7 +7,7 @@ timeFred can:
 - Resume Timetracking
 - Stop the current trackt task
 
-![example](example.png)
+![example](alfred-example.png)
 
 # ToDo
 - [ ] Add option to Create/Start Task
